@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Banner.gif" alt="Demo GIF" width="600"/>
+</p>
+
 # 👋 Hi, I'm Sobhan Rajabzadeh
 
 I'm a **Software Developer** with a background in **civil engineering** and a strong focus on **AI** and **machine learning**. I build intelligent systems that solve real-world problems — from infrastructure defect detection to structural optimization and data-driven applications.
