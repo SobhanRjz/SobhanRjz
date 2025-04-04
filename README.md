@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Banner.gif" alt="Demo GIF" width="600"/>
+  <img src="./Banner.gif" alt="Demo GIF" width="1500"/>
 </p>
 
 # 👋 Hi, I'm Sobhan Rajabzadeh
