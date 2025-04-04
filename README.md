@@ -23,28 +23,28 @@ I'm a **Software Developer** with a strong focus on **AI** and **machine learnin
 ## 🚀 Featured Projects
 
 - **Automated Sewer Pipe Defect Detection**  
-  AI-powered system to detect defects in sewer pipes using deep learning and computer vision.
+  Developed an AI-based system using deep learning and mask detection to automatically identify defects in sewer pipes from visual data.
 
-- **Detect-Sewer-Defects**  
-  Deep learning application for identifying sewer system defects to support maintenance decisions.
+- **Soil Optimization**  
+  Designed an AI-powered solution for optimizing soil nailing rebar configurations using metaheuristic algorithms to improve stability and efficiency.
 
 - **SewerAi_WinForm**  
-  Windows Forms app to visualize and manage sewer inspection data using integrated AI models.
+  Built a Windows Forms application that integrates sewer defect detection models to help engineers visualize and manage inspection data efficiently.
 
 - **DL_Detectron2**  
-  Object detection using Detectron2, demonstrating advanced CV capabilities.
-
-- **Make-Sense**  
-  Image annotation tool to create and manage datasets for machine learning tasks.
-
-- **Shear Wall Optimization Module**  
-  ETABS add-on to optimize rebar layout, improving material efficiency in structural design.
-
-- **ETABS Civil Engineering Plugin**  
-  Automates compliance checks and structural procedures in civil engineering workflows.
+  Created an object detection platform using Detectron2, including a custom pipeline for data handling and model training tailored to infrastructure use cases.
 
 - **Crypto Intelligence Pipeline**  
-  Extracts market signals and features for AI-driven trading models.
+  Implemented a feature extraction pipeline to gather and process market indicators, technical signals, and trends for AI-based crypto trading models.
+  
+- **Shear Wall Optimization Module**  
+  Developed an ETABS module that automates rebar layout optimization in shear walls using metaheuristic algorithms to reduce material usage.
+
+- **ETABS Civil Engineering Plugin**  
+  Built a plugin for ETABS that automates compliance checks and structural analysis procedures to streamline engineering workflows.
+
+
+
 
 ---
 
